@@ -1,0 +1,2 @@
+module ThreeHourChartHelper
+end

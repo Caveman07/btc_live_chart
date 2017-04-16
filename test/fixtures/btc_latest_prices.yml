@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  btc_usd: 1.5
+  btc_eur: 1.5
+  btc_rur: 1.5
+
+two:
+  btc_usd: 1.5
+  btc_eur: 1.5
+  btc_rur: 1.5
