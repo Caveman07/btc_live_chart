@@ -1,4 +1,4 @@
-# :schedule:
-#   request_worker:
-#     every: 1m
-#     class: RequestWorker
+:schedule:
+  request_worker:
+    every: 1m
+    class: RequestWorker
