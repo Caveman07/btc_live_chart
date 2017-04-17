@@ -46,7 +46,9 @@ gem "d3-rails", :git => 'git://github.com/Caveman07/d3-rails.git' #updated to v4
 gem 'faraday'
 
 gem 'sidekiq'
-gem 'sidekiq-scheduler'
+# gem 'sidekiq-scheduler'
+
+gem 'clockwork'
 
 gem 'sinatra', github: 'sinatra/sinatra'
 
