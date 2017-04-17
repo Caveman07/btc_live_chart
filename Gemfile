@@ -48,7 +48,7 @@ gem 'faraday'
 gem 'sidekiq'
 # gem 'sidekiq-scheduler'
 
-gem 'clockwork'
+# gem 'clockwork'
 
 gem 'sinatra', github: 'sinatra/sinatra'
 
