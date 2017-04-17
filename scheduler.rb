@@ -4,7 +4,7 @@ require File.expand_path('../config/environment', __FILE__)
 require 'clockwork'
 
 module Clockwork
-  every(10.minutes, 'Api request: get latest price') do
+  every(1.minutes, 'Api request: get latest price') do
     RequestWorker.perform_async
   end
 end
