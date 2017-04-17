@@ -9,6 +9,12 @@ path {
     fill: none;
 }
 
+.panel {
+  width: 150px;
+  height: 50px;
+  float: left;
+}
+
 .line {
   fill: none;
   stroke: steelblue;
@@ -41,16 +47,6 @@ path {
 .legendcheckbox{
 	cursor: pointer;
 }
-#showAll{
-	position:absolute;
-	top:600px;
-	left:880px;
-}
-#clearAll{
-	position:absolute;
-	top:600px;
-	left:950px;
-}
 input{
 	border-radius:5px;
 	padding:5px 10px;
@@ -59,7 +55,5 @@ input{
 	color:#fff;
 }
 #inds{
-	position:absolute;
-	top:10px;
-	left:10px;
+
 }
